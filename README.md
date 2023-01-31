@@ -11,4 +11,4 @@ HIHI
 
 ## Sample Code
 
-printf("Goodbye Cruel World");
+`printf("Goodbye Cruel World");`
