@@ -12,3 +12,7 @@ HIHI
 ## Sample Code
 
 `printf("Goodbye Cruel World");`
+
+## How to Install
+
+Step 1:	Download the zip fle or use git clone
