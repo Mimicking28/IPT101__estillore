@@ -1,4 +1,4 @@
-cd# IPT101__estillore
+# IPT101__estillore
 
 This for the activity about editing a readme file.
 
@@ -18,4 +18,3 @@ HIHI
 Step 1:	Download the zip fle or use git clone
 
 Commit 1
-Commit 2
